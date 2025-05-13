@@ -1,3 +1,4 @@
+// Testbench for half adder
 module tb_half_adder;
 
     // Declare testbench signals
